@@ -1,0 +1,26 @@
+.bg-f4{
+  background-color: #f4f4f4;
+  padding: 10px 20px;
+  border-color: rgba(220, 222, 227, 0)!important;
+}
+.bg-f4.focus {
+  background-color: #f4f4f4!important;
+}
+.bg-f4 textarea {
+	min-height: 300px;
+}
+.next-input textarea{
+    resize: auto;
+}
+.title-h2{
+	position: relative;
+}
+.title-h2 .up{
+	position: absolute;
+	top: 0;
+	right: 10px;
+	cursor: pointer;
+}
+.none {
+	display: none;
+}
